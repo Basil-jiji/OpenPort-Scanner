@@ -1,5 +1,6 @@
 # OpenPort-Scanner
 A Basic port scanner to scan open ports in a Device /IP Address
+(Default set to scan ports from the range 50 to 85, Modify it to 1 to 65535 to scan all the ports)
 
 ## Installation
 Clone the [git](https://github.com/Basil-jiji/OpenPort-Scanner.git) repository
