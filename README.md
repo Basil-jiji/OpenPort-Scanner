@@ -19,8 +19,8 @@ To scan
 ```bash
 ./scanner.py <ip>
 ```
-<ip> put IP Address that you want to scan
-eg: ./scanner.py 192.168.71.115
+`<ip>` Put the IP Address that you want to Scan
+for eg: ./scanner.py 192.168.71.115
 
 ## Contact me
 [Gmail](mailto:basiljiji2015@gmail.com)
